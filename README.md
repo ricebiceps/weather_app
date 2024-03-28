@@ -17,7 +17,7 @@ The weather app uses following libraries and technologies:
 **WeatherAppGUI**
 - Handles the layout and GUI components, including text fields, buttons and more. It also handles the user interface for inputting location. 
 
-****WeatherApp**
+**WeatherApp**
 - Handles backend logic for fetching weather data from an external API. It includes method to fetch weather data and location through api requests, converting weather codes into understandable weather conditions, and manage api requests. 
 
 ## Topics covered through this project
