@@ -1,18 +1,14 @@
-## Getting Started
+## Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a project that integrates the openmeteo weather api to display weather information about any city in the world.
 
-## Folder Structure
+## Topics covered through this project
 
-The workspace contains two folders by default, where:
+- Java Object Oriented Programming
+- Designing GUI using java libraries
+- Java API integration
+- Error handling
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to run it on your own device
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Download this repository and run it. All the necessary files are on the repository.
