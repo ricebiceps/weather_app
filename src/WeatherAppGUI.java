@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 
 
 public class WeatherAppGUI extends JFrame{
-    private JSONObject 
+    /*private JSONObject 
     public WeatherAppGUI() {
 
         super("Weather App");
@@ -24,7 +24,9 @@ public class WeatherAppGUI extends JFrame{
         setResizable(false);
 
         addGuiComponents();
-    }
+
+        return null;
+    }*/
 
     private void addGuiComponents(){
 
@@ -75,7 +77,7 @@ public class WeatherAppGUI extends JFrame{
 
         searchButton.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
         searchButton.setBounds(375,13,47,45);
-        searchButton.addActionListner(new ActionListener() {
+        /*searchButton.addActionListner(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 String userInput = searchTextField.getText();
@@ -86,7 +88,7 @@ public class WeatherAppGUI extends JFrame{
             }
         
         })
-        add(searchButton);
+        add(searchButton);*/
 
         
     }
